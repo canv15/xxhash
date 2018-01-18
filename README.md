@@ -1,4 +1,5 @@
 # xxhash [![GoDoc](https://godoc.org/github.com/OneOfOne/xxhash?status.svg)](https://godoc.org/github.com/OneOfOne/xxhash) [![Build Status](https://travis-ci.org/OneOfOne/xxhash.svg?branch=master)](https://travis-ci.org/OneOfOne/xxhash) [![Coverage](https://gocover.io/_badge/github.com/OneOfOne/xxhash)](https://gocover.io/github.com/OneOfOne/xxhash)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fxxhash.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fxxhash?ref=badge_shield)
 
 This is a native Go implementation of the excellent [xxhash](https://github.com/Cyan4973/xxHash)* algorithm, an extremely fast non-cryptographic Hash algorithm, working at speeds close to RAM limits.
 
@@ -67,3 +68,6 @@ Fnv64Short-8                  74.7ns ± 8%
 ## License
 
 This project is released under the Apache v2. licence. See [LICENCE](LICENCE) for more details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fxxhash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fxxhash?ref=badge_large)
